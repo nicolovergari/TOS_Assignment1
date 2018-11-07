@@ -1,7 +1,8 @@
 1047617
 
--Margherita
--Capricciosa
+Pizze:
+  -Margherita
+  -Capricciosa
 
 
 pizzeria Bella Napoli
